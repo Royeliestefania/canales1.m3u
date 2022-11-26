@@ -1,1 +1,1 @@
-# canales1.m3u
+# canales1
